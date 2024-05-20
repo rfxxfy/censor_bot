@@ -14,7 +14,7 @@ daily_stats = {}
 
 async def start(update: Update, context: CallbackContext) -> None:
     if update.message:
-        await update.message.reply_text('Я ахуенный бот, я умею подсчитывать количество мата в чате')
+        await update.message.reply_text('Я отличный бот, я умею подсчитывать количество мата в чате')
 
 async def help_command(update: Update, context: CallbackContext) -> None:
     if update.message:
