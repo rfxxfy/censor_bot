@@ -61,10 +61,6 @@ This bot tracks the usage of obscene words in a Telegram chat. It provides stati
 
 To ensure the bot runs 24/7, you can deploy it on a cloud service like Heroku or AWS, or use a VPS.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 # Телеграм-бот для отслеживания мата
@@ -130,6 +126,3 @@ This project is licensed under the MIT License.
 
 Чтобы бот работал 24/7, вы можете развернуть его на облачном сервисе, таком как Heroku или AWS, или использовать VPS.
 
-## Лицензия
-
-Этот проект лицензирован по лицензии MIT.
