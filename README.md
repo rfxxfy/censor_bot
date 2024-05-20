@@ -37,18 +37,18 @@ This bot tracks the usage of obscene words in a Telegram chat. It provides stati
     pip install -r requirements.txt
     ```
 
-4. Create a `config.py` file and add your bot token:
+4. Create a `scripts.py` file and add your bot token:
 
     ```python
-    # config.py
+    # scripts.py
     TOKEN = 'your-telegram-bot-token'
     ```
 
-5. Add `config.py` to `.gitignore` to ensure your token is not pushed to GitHub:
+5. Add `scripts.py` to `.gitignore` to ensure your token is not pushed to GitHub:
 
     ```plaintext
     # .gitignore
-    config.py
+    scripts.py
     ```
 
 6. Run the bot:
@@ -102,18 +102,18 @@ To ensure the bot runs 24/7, you can deploy it on a cloud service like Heroku or
     pip install -r requirements.txt
     ```
 
-4. Создайте файл `config.py` и добавьте в него ваш токен бота:
+4. Создайте файл `scripts.py` и добавьте в него ваш токен бота:
 
     ```python
-    # config.py
+    # scripts.py
     TOKEN = 'your-telegram-bot-token'
     ```
 
-5. Добавьте `config.py` в `.gitignore`, чтобы ваш токен не попал в GitHub:
+5. Добавьте `scripts.py` в `.gitignore`, чтобы ваш токен не попал в GitHub:
 
     ```plaintext
     # .gitignore
-    config.py
+    scripts.py
     ```
 
 6. Запустите бота:
